@@ -1,0 +1,1110 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.9.8)  30 SEP 2021 10:05
+entering extended mode
+**./olblig1besvarelse.tex
+(olblig1besvarelse.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> xparse <2020-03-03>
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/memoir\memo
+ir.cls
+Document Class: memoir 2020/10/04 v3.7n configurable book, report, article docu
+ment class
+\onelineskip=\skip47
+\lxvchars=\skip48
+\xlvchars=\skip49
+\@memcnta=\count179
+\c@@memmarkcntra=\count180
+
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ift
+ex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+\stockheight=\skip50
+\stockwidth=\skip51
+\trimtop=\skip52
+\trimedge=\skip53
+
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/memoir\mem1
+1.clo
+File: mem11.clo 2008/01/30 v0.3 memoir class 11pt size option
+)
+\binding=\skip54
+\spinemargin=\skip55
+\foremargin=\skip56
+\uppermargin=\skip57
+\lowermargin=\skip58
+\headdrop=\skip59
+\normalrulethickness=\skip60
+\mem@maxheadheight=\skip61
+\mem@maxfootheight=\skip62
+\headwidth=\skip63
+\c@storedpagenumber=\count181
+\memPD=\dimen138
+\m@mabparskip=\skip64
+\thanksmarkwidth=\skip65
+\thanksmarksep=\skip66
+\droptitle=\skip67
+\c@book=\count182
+\c@part=\count183
+\c@chapter=\count184
+\c@section=\count185
+\c@subsection=\count186
+\c@subsubsection=\count187
+\c@paragraph=\count188
+\c@subparagraph=\count189
+\beforechapskip=\skip68
+\midchapskip=\skip69
+\afterchapskip=\skip70
+\chapindent=\skip71
+\bottomsectionskip=\skip72
+\secindent=\skip73
+\beforesecskip=\skip74
+\aftersecskip=\skip75
+\subsecindent=\skip76
+\beforesubsecskip=\skip77
+\aftersubsecskip=\skip78
+\subsubsecindent=\skip79
+\beforesubsubsecskip=\skip80
+\aftersubsubsecskip=\skip81
+\paraindent=\skip82
+\beforeparaskip=\skip83
+\afterparaskip=\skip84
+\subparaindent=\skip85
+\beforesubparaskip=\skip86
+\aftersubparaskip=\skip87
+\pfbreakskip=\skip88
+\c@@ppsavesec=\count190
+\c@@ppsaveapp=\count191
+\ragrparindent=\dimen139
+\everylistparindent=\dimen140
+\parsepi=\skip89
+\topsepi=\skip90
+\itemsepi=\skip91
+\parsepii=\skip92
+\topsepii=\skip93
+\topsepiii=\skip94
+\itemsepii=\skip95
+\itemsepiii=\skip96
+\partopsepii=\skip97
+\partopsepiii=\skip98
+\m@msavetopsep=\skip99
+\m@msavepartopsep=\skip100
+\@enLab=\toks15
+\abstitleskip=\skip101
+\absleftindent=\skip102
+\abs@leftindent=\dimen141
+\absrightindent=\skip103
+\absparindent=\skip104
+\absparsep=\skip105
+\c@vslineno=\count192
+\c@poemline=\count193
+\c@modulo@vs=\count194
+\c@memfvsline=\count195
+\vleftskip=\skip106
+\vrightskip=\skip107
+\stanzaskip=\skip108
+\versewidth=\skip109
+\vgap=\skip110
+\vindent=\skip111
+\vleftmargin=\dimen142
+\c@verse=\count196
+\c@chrsinstr=\count197
+\beforepoemtitleskip=\skip112
+\afterpoemtitleskip=\skip113
+\c@poem=\count198
+\beforePoemTitleskip=\skip114
+\midPoemTitleskip=\skip115
+\afterPoemTitleskip=\skip116
+
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/latex-tools
+\array.sty
+Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
+\col@sep=\dimen143
+\ar@mcellbox=\box47
+\extrarowheight=\dimen144
+\NC@list=\toks16
+\extratabsurround=\skip117
+\backup@length=\skip118
+\ar@cellbox=\box48
+)
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/latex-tools
+\dcolumn.sty
+Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
+)
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/latex-tools
+\delarray.sty
+Package: delarray 2014/10/28 v1.01 array delimiter package (DPC)
+)
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/latex-tools
+\tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen145
+\TX@old@table=\dimen146
+\TX@old@col=\dimen147
+\TX@target=\dimen148
+\TX@delta=\dimen149
+\TX@cols=\count199
+\TX@ftn=\toks17
+)
+\heavyrulewidth=\dimen150
+\lightrulewidth=\dimen151
+\cmidrulewidth=\dimen152
+\belowrulesep=\dimen153
+\belowbottomsep=\dimen154
+\aboverulesep=\dimen155
+\abovetopsep=\dimen156
+\cmidrulesep=\dimen157
+\cmidrulekern=\dimen158
+\defaultaddspace=\dimen159
+\@cmidla=\count266
+\@cmidlb=\count267
+\@aboverulesep=\dimen160
+\@belowrulesep=\dimen161
+\@thisruleclass=\count268
+\@lastruleclass=\count269
+\@thisrulewidth=\dimen162
+\ctableftskip=\skip119
+\ctabrightskip=\skip120
+\abovecolumnspenalty=\count270
+\@linestogo=\count271
+\@cellstogo=\count272
+\@cellsincolumn=\count273
+\crtok=\toks18
+\@mincolumnwidth=\dimen163
+\c@newflo@tctr=\count274
+\mem@margin@floatbox=\box49
+\@contcwidth=\skip121
+\@contindw=\skip122
+\abovecaptionskip=\skip123
+\belowcaptionskip=\skip124
+\subfloattopskip=\skip125
+\subfloatcapskip=\skip126
+\subfloatcaptopadj=\skip127
+\subfloatbottomskip=\skip128
+\subfloatlabelskip=\skip129
+\subfloatcapmargin=\dimen164
+\c@@contsubnum=\count275
+\m@mscap@capbox=\box50
+\m@mscap@fbox=\box51
+\sidecapsep=\dimen165
+\sidecapwidth=\dimen166
+\m@m@tempdima=\dimen167
+\m@mscapraise=\dimen168
+\sidecapraise=\dimen169
+\m@mscapmainwidth=\dimen170
+\m@mscaplkern=\dimen171
+\beforeepigraphskip=\skip130
+\afterepigraphskip=\skip131
+\epigraphwidth=\skip132
+\epigraphrule=\skip133
+LaTeX Info: Redefining \em on input line 7678.
+LaTeX Info: Redefining \emph on input line 7686.
+\tocentryskip=\skip134
+\tocbaseline=\skip135
+\cftparskip=\skip136
+\cftbeforebookskip=\skip137
+\cftbookindent=\dimen172
+\cftbooknumwidth=\dimen173
+\cftbeforepartskip=\skip138
+\cftpartindent=\skip139
+\cftpartnumwidth=\skip140
+\cftbeforechapterskip=\skip141
+\cftchapterindent=\skip142
+\cftchapternumwidth=\skip143
+\cftbeforesectionskip=\skip144
+\cftsectionindent=\skip145
+\cftsectionnumwidth=\skip146
+\cftbeforesubsectionskip=\skip147
+\cftsubsectionindent=\skip148
+\cftsubsectionnumwidth=\skip149
+\cftbeforesubsubsectionskip=\skip150
+\cftsubsubsectionindent=\skip151
+\cftsubsubsectionnumwidth=\skip152
+\cftbeforeparagraphskip=\skip153
+\cftparagraphindent=\skip154
+\cftparagraphnumwidth=\skip155
+\cftbeforesubparagraphskip=\skip156
+\cftsubparagraphindent=\skip157
+\cftsubparagraphnumwidth=\skip158
+\prechapterprecisshift=\dimen174
+\c@maxsecnumdepth=\count276
+\bibindent=\dimen175
+\bibitemsep=\skip159
+\indexcolsep=\skip160
+\indexrule=\skip161
+\indexmarkstyle=\toks19
+\@indexbox=\insert252
+\glossarycolsep=\dimen176
+\glossaryrule=\dimen177
+\sideparvshift=\skip162
+\sideins=\insert251
+\sidebartopsep=\skip163
+\sidebarhsep=\skip164
+\sidebarvsep=\skip165
+\sidebarwidth=\skip166
+\footmarkwidth=\skip167
+\footmarksep=\skip168
+\footparindent=\skip169
+\footinsdim=\skip170
+\footinsv@r=\insert250
+\@mpfootinsv@r=\insert249
+\m@m@k=\count277
+\m@m@h=\dimen178
+\m@mipn@skip=\skip171
+\sidefootins=\insert248
+\sidefootadjust=\skip172
+\sidefootheight=\skip173
+\sidefoothsep=\skip174
+\sidefootvsep=\skip175
+\sidefootwidth=\skip176
+\m@mdownsf=\skip177
+\c@sidefootnote=\count278
+\sidefootmarkwidth=\skip178
+\sidefootmarksep=\skip179
+\sidefootparindent=\skip180
+\c@pagenote=\count279
+\c@pagenoteshadow=\count280
+\mem@pn@lastkern=\skip181
+\every@verbatim=\toks20
+\afterevery@verbatim=\toks21
+\verbatim@line=\toks22
+\tab@position=\count281
+\verbatim@in@stream=\read2
+\verbatimindent=\skip182
+\verbatim@out=\write3
+\bvboxsep=\skip183
+\c@memfbvline=\count282
+\c@bvlinectr=\count283
+\bvnumlength=\skip184
+\fb@frw=\dimen179
+\fb@frh=\dimen180
+\FrameRule=\dimen181
+\FrameSep=\dimen182
+\c@cp@cntr=\count284
+\c@ism@mctr=\count285
+\c@xsm@mctr=\count286
+\c@csm@mctr=\count287
+\c@ksm@mctr=\count288
+\c@xksm@mctr=\count289
+\c@cksm@mctr=\count290
+\c@msm@mctr=\count291
+\c@xmsm@mctr=\count292
+\c@cmsm@mctr=\count293
+\c@bsm@mctr=\count294
+\c@workm@mctr=\count295
+\c@sheetsequence=\count296
+\c@lastsheet=\count297
+\c@lastpage=\count298
+
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/textcase\te
+xtcase.sty
+Package: textcase 2019/09/14 v1.00 Text only upper/lower case changing (DPC)
+)
+\c@figure=\count299
+\c@lofdepth=\count300
+\cftbeforefigureskip=\skip185
+\cftfigureindent=\skip186
+\cftfigurenumwidth=\skip187
+\c@table=\count301
+\c@lotdepth=\count302
+\cftbeforetableskip=\skip188
+\cfttableindent=\skip189
+\cfttablenumwidth=\skip190
+Package abstract [2008/07/23] emulated by memoir.
+Package appendix [2008/07/23] emulated by memoir.
+Package booktabs [2016/05/16] emulated by memoir.
+Package ccaption [2008/07/23] emulated by memoir.
+Package changepage [2008/07/23] emulated by memoir.
+Package chngcntr [2008/07/23] emulated by memoir.
+Package chngpage [2008/07/23] emulated by memoir.
+Package crop emulated by memoir.
+Package enumerate [2008/07/23] emulated by memoir.
+Package epigraph [2008/07/23] emulated by memoir.
+Package ifmtarg [2008/07/23] emulated by memoir.
+Package index [2008/07/23] emulated by memoir.
+Package makeidx [2008/07/23] emulated by memoir.
+Package moreverb [2008/07/23] emulated by memoir.
+Package mparhack [2008/07/23] emulated by memoir.
+Package needspace [2008/07/23] emulated by memoir.
+Package newfile [2008/07/23] emulated by memoir.
+Package nextpage [2008/07/23] emulated by memoir.
+Package pagenote [2008/07/23] emulated by memoir.
+Package parskip [2008/07/23] emulated by memoir.
+Package patchcmd [2008/07/23] emulated by memoir.
+Package setspace [2008/07/23] emulated by memoir.
+Package shortvrb [2008/07/23] emulated by memoir.
+Package showidx [2008/07/23] emulated by memoir.
+Package titleref [2008/07/23] emulated by memoir.
+Package titling [2008/07/23] emulated by memoir.
+Package tocbibind [2008/07/23] emulated by memoir.
+Package tocloft [2008/07/23] emulated by memoir.
+Package tocvsec2 [2008/07/23] emulated by memoir.
+Package verbatim [2008/07/23] emulated by memoir.
+Package verse [2008/07/23] emulated by memoir.
+)
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inpute
+nc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks23
+\inpenc@posthook=\toks24
+)
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fonten
+c.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+)
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\lmodern.
+sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/bera\beramo
+no.sty
+Package: beramono 2004/01/31 (WaS)
+
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\ke
+yval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks25
+))
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\m
+icrotype.sty
+Package: microtype 2020/12/07 v2.8 Micro-typographical refinements (RS)
+\MT@toks=\toks26
+\MT@count=\count303
+LaTeX Info: Redefining \textls on input line 788.
+\MT@outer@kern=\dimen183
+LaTeX Info: Redefining \textmicrotypecontext on input line 1358.
+\MT@listname@count=\count304
+
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\m
+icrotype-pdftex.def
+File: microtype-pdftex.def 2020/12/07 v2.8 Definitions specific to pdftex (RS)
+LaTeX Info: Redefining \lsstyle on input line 915.
+LaTeX Info: Redefining \lslig on input line 915.
+\MT@outer@space=\skip191
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\m
+icrotype.cfg
+File: microtype.cfg 2020/12/07 v2.8 microtype main configuration file (RS)
+))
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\am
+ssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\am
+sfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks27
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mathtools\m
+athtools.sty
+Package: mathtools 2020/03/24 v1.24 mathematical typesetting tools
+
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/latex-tools
+\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count305
+\calc@Bcount=\count306
+\calc@Adimen=\dimen184
+\calc@Bdimen=\dimen185
+\calc@Askip=\skip192
+\calc@Bskip=\skip193
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count307
+\calc@Cskip=\skip194
+)
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mathtools\m
+hsetup.sty
+Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
+)
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\ams
+math.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip195
+
+For additional information on amsmath, use the `?' option.
+
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\ams
+text.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\ams
+gen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks28
+\ex@=\dimen186
+))
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\ams
+bsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen187
+)
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\ams
+opn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count308
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count309
+\leftroot@=\count310
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count311
+\DOTSCASE@=\count312
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box52
+\strutbox@=\box53
+\big@size=\dimen188
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count313
+\c@MaxMatrixCols=\count314
+\dotsspace@=\muskip16
+\c@parentequation=\count315
+\dspbrk@lvl=\count316
+\tag@help=\toks29
+\row@=\count317
+\column@=\count318
+\maxfields@=\count319
+\andhelp@=\toks30
+\eqnshift@=\dimen189
+\alignsep@=\dimen190
+\tagshift@=\dimen191
+\tagwidth@=\dimen192
+\totwidth@=\dimen193
+\lineht@=\dimen194
+\@envbody=\toks31
+\multlinegap=\skip196
+\multlinetaggap=\skip197
+\mathdisplay@stack=\toks32
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
+\g_MT_multlinerow_int=\count320
+\l_MT_multwidth_dim=\dimen195
+\origjot=\skip198
+\l_MT_shortvdotswithinadjustabove_dim=\dimen196
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen197
+\l_MT_above_intertext_sep=\dimen198
+\l_MT_below_intertext_sep=\dimen199
+\l_MT_above_shortintertext_sep=\dimen256
+\l_MT_below_shortintertext_sep=\dimen257
+\xmathstrut@box=\box54
+\xmathstrut@dim=\dimen258
+)
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amscls\amst
+hm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks33
+\thm@bodyfont=\toks34
+\thm@headfont=\toks35
+\thm@notefont=\toks36
+\thm@headpunct=\toks37
+\thm@preskip=\skip199
+\thm@postskip=\skip256
+\thm@headsep=\skip257
+\dth@everypar=\toks38
+)
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/thmtools\th
+mtools.sty
+Package: thmtools 2020/08/01 v0.72
+\thmt@toks=\toks39
+\c@thmt@dummyctr=\count321
+
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/thmtools\th
+m-patch.sty
+Package: thm-patch 2020/08/01 v0.72
+
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/thmtools\pa
+rseargs.sty
+Package: parseargs 2020/08/01 v0.72
+\@parsespec=\toks40
+))
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/thmtools\th
+m-kv.sty
+Package: thm-kv 2020/08/01 v0.72
+Package thm-kv Info: Theorem names will be uppercased on input line 42.
+
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvsetkeys
+\kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+Package thm-kv Info: kvsetkeys patch (v1.16 or later) on input line 158.
+)
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/thmtools\th
+m-autoref.sty
+Package: thm-autoref 2020/08/01 v0.72
+
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/thmtools\al
+iasctr.sty
+Package: aliasctr 2020/08/01 v0.72
+))
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/thmtools\th
+m-listof.sty
+Package: thm-listof 2020/08/01 v0.72
+)
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/thmtools\th
+m-restate.sty
+Package: thm-restate 2020/08/01 v0.72
+)
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/thmtools\th
+m-amsthm.sty
+Package: thm-amsthm 2020/08/01 v0.72
+\thmt@style@headstyle=\toks41
+))
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\bab
+el.sty
+Package: babel 2021/01/26 3.53 The Babel package
+
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\bab
+el.def
+File: babel.def 2021/01/26 3.53 Babel common definitions
+\babel@savecnt=\count322
+\U@D=\dimen259
+\l@babelnohyphens=\language83
+
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txt
+babel.def)
+\bbl@readstream=\read3
+)
+\bbl@dirlevel=\count323
+
+*************************************
+* Local config file bblopts.cfg used
+*
+
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblop
+ts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+Package babel Info: You haven't specified a language. I'll use 'nil'
+(babel)             as the main language. Reported on input line 1159.
+
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\nil
+.ldf
+Language: nil 2021/01/26 3.53 Nil language
+\l@nil=\language84
+))
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/csquotes\cs
+quotes.sty
+Package: csquotes 2021-01-04 v5.2k context-sensitive quotations (JAW)
+
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\et
+oolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count324
+)
+\csq@reset=\count325
+\csq@gtype=\count326
+\csq@glevel=\count327
+\csq@qlevel=\count328
+\csq@maxlvl=\count329
+\csq@tshold=\count330
+\csq@ltx@everypar=\toks42
+
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/csquotes\cs
+quotes.def
+File: csquotes.def 2021-01-04 v5.2k csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/csquotes\cs
+quotes.cfg
+File: csquotes.cfg 
+))
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\li
+stings.sty
+\lst@mode=\count331
+\lst@gtempboxa=\box55
+\lst@token=\toks43
+\lst@length=\count332
+\lst@currlwidth=\dimen260
+\lst@column=\count333
+\lst@pos=\count334
+\lst@lostspace=\dimen261
+\lst@width=\dimen262
+\lst@newlines=\count335
+\lst@lineno=\count336
+\lst@maxwidth=\dimen263
+
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\ls
+tmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count337
+\lst@skipnumbers=\count338
+\lst@framebox=\box56
+)
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\li
+stings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\textco
+mp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/siunitx\siu
+nitx.sty
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\ex
+pl3.sty
+Package: expl3 2021-02-18 L3 programming layer (loader) 
+
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l
+3backend-pdftex.def
+File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count339
+\l__pdf_internal_box=\box57
+))
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/
+xparse\xparse.sty
+Package: xparse 2020-10-27 L3 Experimental document command parser
+
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/
+xparse\xparse-generic.tex))
+Package: siunitx 2020/02/25 v2.8b A comprehensive (SI) units package
+
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/
+l3keys2e\l3keys2e.sty
+Package: l3keys2e 2020-10-27 LaTeX2e option processing using LaTeX3 keys
+)
+\l__siunitx_tmp_box=\box58
+\l__siunitx_tmp_dim=\dimen264
+\l__siunitx_tmp_int=\count340
+\l__siunitx_number_mantissa_length_int=\count341
+\l__siunitx_number_uncert_length_int=\count342
+\l__siunitx_round_int=\count343
+\l__siunitx_process_decimal_int=\count344
+\l__siunitx_process_uncertainty_int=\count345
+\l__siunitx_process_fixed_int=\count346
+\l__siunitx_process_integer_min_int=\count347
+\l__siunitx_process_precision_int=\count348
+\l__siunitx_group_min_int=\count349
+\l__siunitx_angle_marker_box=\box59
+\l__siunitx_angle_unit_box=\box60
+\l__siunitx_angle_marker_dim=\dimen265
+\l__siunitx_angle_unit_dim=\dimen266
+\l__siunitx_unit_int=\count350
+\l__siunitx_unit_denominator_int=\count351
+\l__siunitx_unit_numerator_int=\count352
+\l__siunitx_unit_prefix_int=\count353
+\l__siunitx_unit_prefix_base_int=\count354
+\l__siunitx_unit_prefix_gram_int=\count355
+\l__siunitx_number_product_int=\count356
+\c__siunitx_one_fill_skip=\skip258
+\l__siunitx_table_unit_align_skip=\skip259
+\l__siunitx_table_exponent_dim=\dimen267
+\l__siunitx_table_integer_dim=\dimen268
+\l__siunitx_table_mantissa_dim=\dimen269
+\l__siunitx_table_marker_dim=\dimen270
+\l__siunitx_table_result_dim=\dimen271
+\l__siunitx_table_uncert_dim=\dimen272
+\l__siunitx_table_fill_pre_dim=\dimen273
+\l__siunitx_table_fill_post_dim=\dimen274
+\l__siunitx_table_fill_mid_dim=\dimen275
+\l__siunitx_table_pre_box=\box61
+\l__siunitx_table_post_box=\box62
+\l__siunitx_table_mantissa_box=\box63
+\l__siunitx_table_result_box=\box64
+\l__siunitx_table_number_align_skip=\skip260
+\l__siunitx_table_text_align_skip=\skip261
+
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\
+translator.sty
+Package: translator 2020-08-03 v1.12c Easy translation of strings in LaTeX
+))
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcol
+or.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cf
+g\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-de
+f\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/latex-tools
+\multicol.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count357
+\mult@box=\box65
+\multicol@leftmargin=\dimen276
+\c@unbalance=\count358
+\c@collectmore=\count359
+\doublecol@number=\count360
+\multicoltolerance=\count361
+\multicolpretolerance=\count362
+\full@width=\dimen277
+\page@free=\dimen278
+\premulticols=\dimen279
+\postmulticols=\dimen280
+\multicolsep=\skip262
+\multicolbaselineskip=\skip263
+\partial@page=\box66
+\last@line=\box67
+\maxbalancingoverflow=\dimen281
+\mult@rightbox=\box68
+\mult@grightbox=\box69
+\mult@gfirstbox=\box70
+\mult@firstbox=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\@tempa=\box106
+\@tempa=\box107
+\@tempa=\box108
+\c@minrows=\count363
+\c@columnbadness=\count364
+\c@finalcolumnbadness=\count365
+\last@try=\dimen282
+\multicolovershoot=\dimen283
+\multicolundershoot=\dimen284
+\mult@nat@firstbox=\box109
+\colbreak@box=\box110
+\mc@col@check@num=\count366
+)
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+
+
+Package csquotes Warning: No style for language 'nil'.
+(csquotes)                Using fallback style on input line 59.
+
+Package csquotes Info: Redefining alias 'default' -> 'fallback'.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 59
+.
+
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+) (olblig1besvarelse.aux)
+\openout1 = `olblig1besvarelse.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Info: Redefining \microtypecontext on input line 59.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 59.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\m
+t-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\gr
+aphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\gr
+aphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\tr
+ig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cf
+g\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+)
+\Gin@req@height=\dimen285
+\Gin@req@width=\dimen286
+)
+\c@lstlisting=\count367
+
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/siunitx\siu
+nitx-abbreviations.cfg
+File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
+)
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\
+translator-basic-dictionary-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+)
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii
+\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count368
+\scratchdimen=\dimen287
+\scratchbox=\box111
+\nofMPsegments=\count369
+\nofMParguments=\count370
+\everyMPshowfont=\toks44
+\MPscratchCnt=\count371
+\MPscratchDim=\dimen288
+\MPnumerator=\count372
+\makeMPintoPDFobject=\count373
+\everyMPtoPDFconversion=\toks45
+)
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pk
+g\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 5
+9.
+
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\ot1lmr.f
+d
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 5
+9.
+
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\omllmm.f
+d
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+59.
+
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\omslmsy.
+fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+59.
+
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\omxlmex.
+fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 59.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 59.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 59.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 59.
+
+
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\um
+sa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\m
+t-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 59.
+
+
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\um
+sb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\m
+t-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 
+59.
+
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\ot1lmss.
+fd
+File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmss' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Trying to load font information for OT1+lmtt on input line 
+59.
+
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\ot1lmtt.
+fd
+File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmtt' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 60.
+ [1
+
+{C:/Users/Administrator/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+LaTeX Font Info:    Trying to load font information for T1+fvm on input line 78
+.
+
+(C:\Users\Administrator\AppData\Local\Programs\MiKTeX 2.9\tex/latex/bera\t1fvm.
+fd
+File: t1fvm.fd 2004/09/07 scalable font definitions for T1/fvm.
+)
+LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
+(Font)              scaled to size 8.09995pt on input line 78.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `fvm' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ [1] [2] [3] [4] [5]
+Underfull \hbox (badness 10000) in paragraph at lines 352--354
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 366--368
+
+ []
+
+[6]
+Overfull \hbox (40.35442pt too wide) in paragraph at lines 404--404
+[]\T1/fvm/m/n/9 0.6087077776638925  0.9204274878392227  0.06851310883531125  -1
+.3877787807814457e-17[] 
+ []
+
+[7]
+Overfull \hbox (15.97362pt too wide) in paragraph at lines 441--441
+[]\T1/fvm/m/n/9 0.7157340474556305 0.016437627194271553 0.491972627514226 5.551
+115123125783e-17[] 
+ []
+
+[8] (olblig1besvarelse.aux) ) 
+Here is how much of TeX's memory you used:
+ 15299 strings out of 479300
+ 261440 string characters out of 2849641
+ 765731 words of memory out of 3000000
+ 32401 multiletter control sequences out of 15000+200000
+ 477865 words of font info for 143 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 81i,12n,88p,724b,1719s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Administrator/AppData/Local/Programs/MiK
+TeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/Administrator/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathex.enc}{C:/Users/Administrator/AppDat
+a/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}{C:/Users/Administrator
+/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Users/A
+dministrator/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}{C:
+/Users/Administrator/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ma
+thit.enc}<C:/Users/Administrator/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+bera/fvmr8a.pfb><C:/Users/Administrator/AppData/Local/Programs/MiKTeX 2.9/fonts
+/type1/public/lm/lmbx12.pfb><C:/Users/Administrator/AppData/Local/Programs/MiKT
+eX 2.9/fonts/type1/public/lm/lmex10.pfb><C:/Users/Administrator/AppData/Local/P
+rograms/MiKTeX 2.9/fonts/type1/public/lm/lmmi10.pfb><C:/Users/Administrator/App
+Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmmi8.pfb><C:/Users/Admini
+strator/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/U
+sers/Administrator/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr1
+2.pfb><C:/Users/Administrator/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
+lic/lm/lmr17.pfb><C:/Users/Administrator/AppData/Local/Programs/MiKTeX 2.9/font
+s/type1/public/lm/lmr7.pfb><C:/Users/Administrator/AppData/Local/Programs/MiKTe
+X 2.9/fonts/type1/public/lm/lmr8.pfb><C:/Users/Administrator/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><C:/Users/Administrator/AppDat
+a/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Users/Administ
+rator/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsy8.pfb>
+Output written on olblig1besvarelse.pdf (9 pages, 233914 bytes).
+PDF statistics:
+ 92 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 44033 words of extra memory for PDF output out of 51595 (max. 10000000)
+

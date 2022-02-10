@@ -1,0 +1,252 @@
+\documentclass[11pt,
+               a4paper,
+               article,
+               oneside,
+               oldfontcommands,
+               norsk]{memoir}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[scaled]{beramono}
+\usepackage[final]{microtype}
+\usepackage{amssymb}
+\usepackage{mathtools}
+\usepackage{amsthm}
+\usepackage{thmtools}
+\usepackage{babel}
+\usepackage{csquotes}
+\usepackage{listings}
+%\lstset{basicstyle = \ttfamily}
+\usepackage{textcomp}
+\usepackage{siunitx}
+\usepackage{xcolor}
+
+\usepackage{graphicx}
+\usepackage[colorlinks, allcolors = uiolink]{hyperref}
+
+
+
+% Makroer for oppgaver
+\newcounter{probnum}[section]
+\newcounter{subprobnum}[probnum]
+
+\newenvironment{oppgaver}{\vspace{12pt}\goodbreak \subsection*{Oppgaver}
+\begin{list}{\bf Oppgave \arabic{probnum}.\ }
+{\usecounter{probnum}\setlength{\itemsep}{6pt}}}{\end{list}\vfill\eject}
+
+\newcommand{\oppgave}{\item}
+
+\newenvironment{deloppgaver}{\begin{list}{\alph{subprobnum})}
+{\usecounter{subprobnum}\setlength{\topsep}{3pt}
+\setlength{\itemsep}{1.5pt}}}{\end{list}}
+
+\newcommand{\deloppgave}{\item}
+
+
+\pretolerance = 2000
+\tolerance    = 6000
+\hbadness     = 6000
+
+
+\renewcommand{\sfdefault}{phv}
+\definecolor{uiolink}{HTML}{0B5A9D}
+
+\lstdefinelanguage{matlab}
+{
+  morekeywords={for,def,if,while,do,break,return,from,import,try,except,else,elif},
+  sensitive=false,
+  morecomment=[l]{\#}
+}
+  
+\lstset{language=matlab,
+  backgroundcolor=\color[rgb]{.95,.95,.95},
+  numbers=left,xleftmargin=10pt,
+  numberstyle=\tiny,stepnumber=1,numbersep=5pt,
+  stringstyle=\color{red},
+  basicstyle=\footnotesize \ttfamily,
+  keywordstyle=\color{blue},
+  commentstyle=\color{green},
+  basewidth=0.60em,
+  showstringspaces=false,
+  captionpos=b,
+  frame=single
+}
+
+\begin{document}
+\begin{titlingpage}
+    \vspace*{-8em}
+    \setlength{\parskip}{1.5ex plus 0.5ex minus 0.2ex}
+    \setlength{\parindent}{0pt}
+
+    \begin{flushright}
+        \small\today
+    \end{flushright}
+
+    \begin{center}
+        \vspace{2em}
+        {
+            \bfseries\sffamily\huge
+            MAT-INF 1100
+            %% Alternativt:
+            %% EMNEXXXX \textthreequartersemdash\ NAVN P{\AA} EMNE
+        }
+        \vskip0.2ex
+        \Large
+        Obligatorisk oppgave 1 av 2 \\
+        \vspace{1ex}
+    \end{center}
+
+    \subsubsection*{Innleveringsfrist}
+    Torsdag 30. september \the\year, klokken 14:30 i Canvas
+    (\href{https://canvas.uio.no}{\underline{canvas.uio.no}}).
+
+    \subsubsection*{Instruksjoner}
+    Du velger selv om du skriver besvarelsen for h{\aa}nd og scanner besvarelsen eller om du skriver l{\o}sningen direkte inn p{\aa} datamaskin (for eksempel ved bruk av \LaTeX).
+    Besvarelsen skal leveres som {\'e}n PDF-fil.
+    Scannede ark m{\aa} v{\ae}re godt lesbare.
+    Besvarelsen skal inneholde navn, emne og oblignummer.
+
+    Det forventes at man har en klar og ryddig besvarelse med tydelige begrunnelser.
+    Husk {\aa} inkludere alle relevante plott og figurer.
+    Studenter som ikke f{\aa}r sin opprinnelige besvarelse godkjent, men som har gjort et reelt fors{\o}k p{\aa} {\aa} l{\o}se oppgavene, vil f{\aa} {\'e}n mulighet til {\aa} levere en revidert besvarelse.
+    Samarbeid og alle slags hjelpemidler er tillatt, men den innleverte besvarelsen skal v{\ae}re skrevet av deg og reflektere din forst{\aa}else av stoffet.
+    Er vi i tvil om du virkelig har forst{\aa}tt det du har levert inn, kan vi be deg om en muntlig redegj{\o}relse.
+
+    I oppgaver der du blir bedt om {\aa} programmere m{\aa} du legge ved programkoden og levere den sammen med resten av besvarelsen.
+    Det er viktig at programkoden du leverer inneholder et kj{\o}reeksempel, slik at det er lett {\aa} se hvilket resultat programmet gir. 
+
+    \subsubsection*{S{\o}knad om utsettelse av innleveringsfrist}
+    Hvis du blir syk eller av andre grunner trenger {\aa} s{\o}ke om utsettelse av innleverings\-fristen, m{\aa} du ta kontakt med studieadministrasjonen ved Matematisk institutt (e-post: \href{mailto:studieinfo@math.uio.no}{studieinfo@math.uio.no}) i god tid f{\o}r innleveringsfristen. 
+
+    For {\aa} f{\aa} adgang til avsluttende eksamen i dette emnet, m{\aa} man best{\aa} alle obliga\-toriske oppgaver i ett og samme semester.
+
+    \subsubsection*{For fullstendige retningslinjer for innlevering av obligatoriske oppgaver, se her:}
+    \begin{center}
+        \href{http://www.uio.no/studier/admin/obligatoriske-aktiviteter/mn-math-oblig.html}
+        {\underline{www.uio.no/studier/admin/obligatoriske-aktiviteter/mn-math-oblig.html}}
+        \vspace{1ex}        
+        \vfill
+        LYKKE TIL!
+    \end{center}
+\end{titlingpage}
+
+
+\noindent
+%Tilleggstekst spesielt for emnet, for eksempel krav til {\aa} f{\aa} obligen godkjent.
+%% Korrekt typesetting av prosent: \SI{60}{\percent}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\newpage
+
+
+\begin{oppgaver}
+
+\oppgave
+Vi skal se på differensligningen
+\begin{equation}\label{eq:diff}
+x_{n+2} - 4 x_{n+1} - x_{n} = 0,  \quad\text{med  $x_0 = 1$ og $x_1 = 1$.}
+\end{equation}
+\begin{deloppgaver}
+
+\deloppgave Lag et dataprogram som løser denne ligningen numerisk og skriver ut følgen $x_2$, $x_3$, \dots, $x_{100}$. 
+
+\deloppgave Løs ligningen numerisk og skriv ut følgen $x_2$, $x_3$, \dots, $x_{100}$ når startverdien $x_1$ endres til $x_{1} = 2-\sqrt{5}$
+
+\deloppgave Vis at den generelle løsningen av ligningen $x_{n+2} - 4 x_{n+1} -  x_{n} = 0$ er på formen
+$$
+x_n = C(2-\sqrt 5)^n + D(2+\sqrt 5)^n
+$$
+og at initialverdiene $x_0=1$ og $x_1 = 2-\sqrt 5$ bestemmer den endelige løsningen til å være $x_n = (2-\sqrt{5})^n$.
+
+\deloppgave Sjekk om den analytiske løsningen i (c) stemmer med dine beregninger i (b) og forklar eventuelle avvik.
+
+\deloppgave (Om du har lyst og tid). Bruk dine beregninger i (b) til å estimere avrundingsenheten (the round-off unit) på maskinen din.
+\end{deloppgaver}
+
+\oppgave
+Binomialkoeffisienten $\binom{n}{i}$ er definert som
+\begin{equation}\label{eq:binomdef}
+\binom{n}{i}=\frac{n!}{i!\,(n-i)!}
+\end{equation}
+der $n\ge 0$ er et ikke-negativt heltall og $i$ er et heltall i intervallet $0\le i \le n$.
+
+Binomialkoeffisientene dukker opp i mange ulike sammenhenger og må ofte beregnes på datamaskin. Siden alle binomialkoeffisientene er heltall (divisjonen i  \eqref{eq:binomdef} gir aldri noen rest) så er det rimelig å bruke heltallige variable i slike beregninger. For små verdier av $n$ og $i$ går det bra, men for større verdier får vi fort problemer fordi både teller og nevner i \eqref{eq:binomdef} lett blir større enn det største heltallet som kan representeres med 32- eller 64-bits heltall selv om binomialkoeffisienten i seg selv ikke er så stor. I mange språk vil dette føre til en form for «overflow», men selv i et språk som Python som unngår dette ved at innebygget programvare kommer til unnsetning, vil beregningene gå langt saktere enn ellers. Vi kan bruke flyttall i stedet, men selv da vil vi lett få «overflow» underveis i beregningene. I denne oppgaven skal vi se hvordan vi kan unngå slike problemer.
+
+Hvis vi ser nærmere på definisjonen \eqref{eq:binomdef} legger vi merke til at vi kan forkorte i stor skala,
+$$
+\binom{n}{i}=\frac{1\cdot 2 \cdots (n-i) \cdot (n-i+1) \cdots n}
+{1\cdot 2 \cdots i \cdot 1 \cdot 2 \cdots (n-i)}
+=\frac{n}{1}\cdot\frac{n-1}{2}\cdots \frac{n-i+1}{i}.
+$$
+Ved hjelp av produktnotasjon kan vi derfor skrive $\binom{n}{i}$ som
+\begin{equation}\label{eq:altdef}
+\binom{n}{i}=\prod_{j=1}^i \frac{n-j+1}{j}.
+\end{equation}
+
+\begin{deloppgaver}
+\deloppgave
+Skriv et program som beregner binomialkoeffisienter ved hjelp av formelen \eqref{eq:altdef}. Test metoden på eksemplene
+\begin{align*}
+\binom{5000}{4} &= 26010428123750,\\[3pt]
+\binom{1000}{500} &=  2.702882409454366 \cdot 10^{299},\\[3pt]
+\binom{100000}{99940} &= 1.18069197996257 \cdot 10^{218}.
+\end{align*}\nobreak
+Hvorfor må du bruke flyttall og hvilke resultater får du?
+\deloppgave
+Er det nå mulig at du underveis får «overflow» om binomialkoeffisienten du skal beregne er mindre enn det største flyttallet som kan representeres på maskinen din?
+
+\deloppgave
+Hvilken alternativ metode bør man bruke når $i > n/2$?
+\end{deloppgaver}
+
+\oppgave
+Følgende Python-program er gitt:
+
+\begin{lstlisting}
+from random import random
+
+antfeil = 0; N = 100000
+
+for i in range(N):
+    x = random(); y = random(); z = random()
+    res1 = (x + y) * z
+    res2 = x*z + y*z
+    if res1 != res2:
+        antfeil += 1
+        x0 = x; y0 = y; z0 = z
+        ikkelik1 = res1
+        ikkelik2 = res2
+        
+print (100. * antfeil/N)
+print (x0, y0, z0, ikkelik1 - ikkelik2)
+\end{lstlisting}
+
+
+En kjøring av programmet ga utskriften
+
+{\footnotesize
+\begin{verbatim}
+30.859
+0.6087077776638925  0.9204274878392227  0.06851310883531125  -1.3877787807814457e-17
+\end{verbatim}
+}
+
+\begin{deloppgaver}
+\oppgave Forklar hva programmet gjør og hva utskriften forteller oss.
+\oppgave 
+Endre programmet slik at det i stedet sammenligner de to størrelsene (x+y)*(y+z) og x*y + y*y + x*z + y*z, og kjør det på nytt. Du skal nå se at det første tallet som blir skrevet ut blir ulikt det første tallet som ble skrevet ut over (d.v.s. 30.859). Kan du tenke deg en mulig forklaring på dette?
+\end{deloppgaver}
+
+\vspace{1cm}
+\centerline{\em Lykke til!}
+
+
+\end{oppgaver}
+
+
+\end{document}
+
+
+
+
